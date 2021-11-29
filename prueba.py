@@ -1,2 +1,4 @@
-def Prueba(a,b):
+def prueba(a,b):
   return a+b
+def resta(a,b):
+  return a-b
